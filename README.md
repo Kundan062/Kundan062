@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github.com/Kundan062/Kundan062/raw/main/banner.svg" width="100%" alt="banner" />
 
@@ -17,7 +17,7 @@
 
 </div>
 
-<br/>
+<br/> -->
 
 ## 👋 About Me
 
